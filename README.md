@@ -1,4 +1,28 @@
-# ecommerce-microservice-architecture
+
+## Internship Experience at Yazılım.xyz
+
+I successfully completed my internship at Yazılım.xyz, focusing on an e-commerce project using Microservices architecture with Java Spring Boot.
+
+## 🚀 Technologies and Frameworks Used:
+Java Spring Boot | Microservices Architecture | Docker | Spring Security | Redis | MySQL and H2 | PostgreSQL | AWS S3 | Git and GitHub | Spring Cloud Config Server | Postman | SOLID Principles | Strategy Design Pattern
+
+## 🚀 Microservices
+Product Service | Review Service | Auth Service | User Service | Gateway Service | Order Service | Cart Service | Payment Service | Eureka Server | Config Server | Fallback Service | Inventory Service | Notification Service | Analytics Service
+
+
+## Key Contributions
+- Implemented **Spring Security** for securing services.
+- Utilized **Redis** for token storage.
+- Followed **SOLID Principles** for sustainable architecture.
+- Applied **Strategy Design Pattern** in the Payment Service.
+- Containerized all services with **Docker** for management.
+- Stored product images on **AWS S3**.
+
+## Tools & Technologies
+- **Git** and **GitHub** for version control.
+- Managed configurations with **Spring Cloud Config Server**.
+- Used **H2** and **MySQL** for development, transitioned to **PostgreSQL** in production.
+- Enhanced collaboration with **Postman**.
 
 
 ![1727954856263](https://github.com/user-attachments/assets/b4fbc951-a827-4f20-8ddd-1d2723ce88fd)
