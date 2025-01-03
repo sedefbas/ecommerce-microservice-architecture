@@ -1,4 +1,4 @@
-# Şirket gizliliğince kodları gösteremiyorum ama yinede emeğimi burada yazıya dökmek istedim :) 
+# Şirket gizliliğince kodları gösteremiyorum. Fakat Projede yaptığım tüm detayları burada yazıya döktüm. 
 ## Internship Experience at Yazılım.xyz
 
 I successfully completed my internship at Yazılım.xyz, focusing on an e-commerce project using Microservices architecture with Java Spring Boot.
